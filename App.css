@@ -1,0 +1,22 @@
+h2 {
+  margin-left: 5px;
+   text-decoration: underline;
+}
+
+table, td, th {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 10px;
+}
+table {
+  margin-left: 5px;
+}
+
+td {
+  text-align: center;
+}
+
+th {
+    text-align: left;
+    background-color: #8AD6FF;
+}
